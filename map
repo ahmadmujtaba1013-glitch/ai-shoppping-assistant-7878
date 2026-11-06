@@ -1,0 +1,19 @@
+Stage 1 — Foundation
+Mostly covered
+Basic LLM API integration, system instructions, conversation history and streaming. You've already practised these with Gemini, and you've now connected Groq.
+
+Stage 2 — Tool calling
+Teach the model to request Python functions, validate their arguments, execute them safely and return the results to the model.
+Why it matters: this is the foundation for AI agents and workflow automation.
+
+Stage 3 — Embeddings and RAG
+Let AI answer questions using a company's documents and information, rather than relying only on its built-in knowledge.
+
+Stage 4 — LangChain
+Learn its models, prompts, retrieval integrations and tool interfaces where they simplify our implementation. We'll convert what you've already built rather than start from zero.
+
+Stage 5 — LangGraph
+Learn stateful, multi-step workflows, conditional routing, persistence, human approval and recovery from failures.
+
+Stage 6 — Production and freelancing
+Build, deploy and demonstrate a useful AI application with authentication, error handling, logging and a clear business purpose. Start showing demos to potential clients before the entire roadmap is finished.
